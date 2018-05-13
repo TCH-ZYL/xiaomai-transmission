@@ -1,0 +1,67 @@
+body{
+margin:0px;
+}
+.ifc {
+margin:0px;
+border:1 solid #3366cc;
+}
+.title {
+height:60px;
+font-size:1.5rem;
+background-color: #5569FD;
+width:100%;
+color:#fff;
+}
+.title_n{
+padding:10px;
+}
+
+.doc {
+padding:1rem;
+}
+
+.bt1 {
+    background-color: #5569FD; 
+    border-radius: 4px;
+    border: none;
+    color: white;
+    padding: 8px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 0.85rem;
+    width:60px;
+}
+
+.isfile {
+   font-size:1rem;
+   display:inline;
+   line-height:150%;
+}
+
+.isdoc {
+   font-size:1rem;
+   display:inline;
+   margin:0px;
+   width:98%;
+   line-height:150%;
+}
+
+a:link, a:visited, a:hover, a:active {
+  font-size:1rem;
+  text-decoration:underline;
+  color:#000;
+}
+
+.content{
+padding:1rem;
+width:90%;
+}
+
+
+.left{width:80%; float:left;}
+.right{width:18%; float:right;}
+.normal_text{
+font-size:0.85rem;
+padding:10px;
+}
